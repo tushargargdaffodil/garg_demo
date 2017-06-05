@@ -1,5 +1,9 @@
 require "garg_demo/version"
 
 module GargDemo
-  # Your code goes here...
+  class Dryer
+    def dry 
+      'say ooooooooooo'
+    end
+  end
 end
